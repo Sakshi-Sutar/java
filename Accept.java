@@ -28,15 +28,10 @@ public class Accept
 
 /* OUTPUT
 
-D:\SAKSHI\codes\java>javac Accept.java
-
-D:\SAKSHI\codes\java>java Accept
 Enter x: 2
 Enter str: hello world
 
 x: 2
 str: hello world
-
-D:\SAKSHI\codes\java>
 
 */
