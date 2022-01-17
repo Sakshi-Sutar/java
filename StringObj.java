@@ -18,7 +18,7 @@ public class StringObj
 
 		String x="10";
 		int y=20;
-		System.out.println(x+y);									//combining string and number gives concatenation of the two
+		System.out.println(x+y);						//combining string and number gives concatenation of the two
 	}
 }
 
