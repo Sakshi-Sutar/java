@@ -9,7 +9,7 @@ public class TypeCasting
 		System.out.println(y);
 
 		float p=6.7f;
-		int q=(int) p;				//narrowing casting - manual conversion needed
+		int q=(int) p;					//narrowing casting - manual conversion needed
 
 		System.out.println(p);
 		System.out.println(q);
