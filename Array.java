@@ -16,15 +16,10 @@ public class Array
 
 /* OUTPUT
 
-C:\Users\Sakshi Sutar\codes\java>javac Array.java
-
-C:\Users\Sakshi Sutar\codes\java>java Array
 3 3
 bmw
 1
 3
 8
-
-C:\Users\Sakshi Sutar\codes\java>
 
 */
